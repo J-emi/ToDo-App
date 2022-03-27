@@ -1,0 +1,1 @@
+## Ćwiczenia napisane w trakcie tutorialu [TypeScript - kurs podstaw](https://github.com/FilipMam/kurs-typescritp).
